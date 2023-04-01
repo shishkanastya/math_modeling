@@ -60,7 +60,7 @@ a = [1, 5, 7, 10]
 for i in a:
     print(f'{i}**3 = {i ** 3}')
 
-a = range(0, 10,2)
+a = range(0, 10, 2)
 print(a)
 print(type(a))
 print(a[3])
